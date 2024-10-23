@@ -1,5 +1,3 @@
-# PowerPoint Link : 
-
 # Dashboard ScreenShots
 ![image](https://github.com/user-attachments/assets/f27cfdab-20b4-4e4a-8cf3-72f13958481d)
 
